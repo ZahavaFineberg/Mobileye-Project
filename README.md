@@ -5,13 +5,13 @@ The project is consisted of 4 parts:
 ##### part1:
 Detection of source lights in an image using convolution with customized
 high- and low-pass filters.
-##### part2
+##### part2:
 Generating and training CNN using the previous stage as input, to conclude
 all the traffic lights in the image (using tensorflow).
-##### part3
+##### part3:
 Estimating the distance to each detected traffic light from the camera picturing
 the images of interest, involving geometric and linear algebra calculations.
-###### part4
+##### part4:
 Integrating all previous parts into a functional and intuitive SW product.
 
 ### Technologies used:
